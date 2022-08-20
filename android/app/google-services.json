@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620421133638",
+    "project_id": "gogo-pharm",
+    "storage_bucket": "gogo-pharm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620421133638:android:802334ff35d5ed7c8aa147",
+        "android_client_info": {
+          "package_name": "com.example.gogo_pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620421133638-9hrgjbktc9cspn8rhjjhqnu47ptq7pdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gogo_pharma",
+            "certificate_hash": "3b7dc2ece6f7e2086e596cd93c504471e99c5e4c"
+          }
+        },
+        {
+          "client_id": "620421133638-oubi3a4k3uohjjreuiol0mr22u7p1hrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttmev9nIXMoRnNhiVLGbf1GWCm58fLOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620421133638-oubi3a4k3uohjjreuiol0mr22u7p1hrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
